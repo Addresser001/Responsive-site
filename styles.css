@@ -401,7 +401,7 @@ div.footer h6 {
     .show{
         position: relative;
         left: 0px;
-        transition-duration: 1s;
+        transition-duration: 0.5s;
         transition-timing-function: ease-out;
     }
     
@@ -552,7 +552,7 @@ div.footer h6 {
     .show{
         position: relative;
         left: 0px;
-        transition-duration: 1s;
+        transition-duration: 0.5s;
         transition-timing-function: ease-out;
     }
     
